@@ -3,8 +3,8 @@
   <b>
     <a href="https://discord.esx-framework.org/">Discord</a> -
     <a href="https://esx-framework.org/">Website</a> -
-    <a href="https://docs.esx-legacy.com/">Documentation</a>
-    <a href="https://https://discord.gg/ZkXdkRsGut"> WSS Discord </a>
+    <a href="https://docs.esx-legacy.com/">Documentation</a> -
+    <a href="https://https://discord.gg/ZkXdkRsGut"> WSS Discord </a> -
     <a href="https://wss-development.tebex.io/"> WSS Tebex </a>
   </b>
 </p>
