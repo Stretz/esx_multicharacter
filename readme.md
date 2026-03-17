@@ -11,7 +11,7 @@ Multi-character system for **ESX Legacy** that lets players create, select, play
 
 > This resource works alongside **`esx_identity`**, **`esx_skin`**, and other ESX core resources.
 
-![Preview](https://r2.fivemanage.com/C0jhwGbCVPkUeapw8W9fw/multicharacter.png)
+![Preview]([https://r2.fivemanage.com/C0jhwGbCVPkUeapw8W9fw/multicharacter.png](https://r2.fivemanage.com/m4VWZLZoULSXNOFGfRETN/11.png))
 
 ---
 
